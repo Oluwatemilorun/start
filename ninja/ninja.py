@@ -1,0 +1,2 @@
+def init_ninja(username) :
+    print("Hello, " + username + "\n I am Ninja Py \n I am supposed to be a bot \n I have big dreams to become a very smart bot \n help make my dreams come true and contribute")
